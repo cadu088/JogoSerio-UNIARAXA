@@ -1,0 +1,10 @@
+# Jogo Serio UNIARAXA!
+[Slide1](https://user-images.githubusercontent.com/72260079/171775763-c9b4e4ca-13d7-4a14-80e6-8efe3696769a.JPG)
+![Slide2](https://user-images.githubusercontent.com/72260079/171775778-1526b8e8-7a54-4038-8be4-df82d3bc6adf.JPG)
+![Slide3](https://user-images.githubusercontent.com/72260079/171775781-c76bf9e3-ca62-4269-abd5-6f180682336f.JPG)
+![Slide4](https://user-images.githubusercontent.com/72260079/171775782-dbd8a5ae-5f9d-4ad7-b4f8-619989921bb9.JPG)
+![Slide5](https://user-images.githubusercontent.com/72260079/171775783-5edf5283-947a-48c3-ae1a-4e75d50dacb5.JPG)
+![Slide6](https://user-images.githubusercontent.com/72260079/171775787-842cc63c-6f47-453c-94f4-bfc2760905fc.JPG)
+![Slide7](https://user-images.githubusercontent.com/72260079/171775791-5ab431c6-8ef4-4a4b-a47d-cdb0e087bc1d.JPG)
+![Slide8](https://user-images.githubusercontent.com/72260079/171775798-ecdae415-cba8-448f-8bca-7e4e14a7e7f1.JPG)
+![Slide9](https://user-images.githubusercontent.com/72260079/171775801-586aaf06-b50e-44c5-b83c-abcf19c47b70.JPG)
