@@ -1,5 +1,5 @@
-# Jogo Serio UNIARAXA!
-[Slide1](https://user-images.githubusercontent.com/72260079/171775763-c9b4e4ca-13d7-4a14-80e6-8efe3696769a.JPG)
+# Jogo Serio UNIARAXA
+![Slide1](https://user-images.githubusercontent.com/72260079/171775763-c9b4e4ca-13d7-4a14-80e6-8efe3696769a.JPG)
 ![Slide2](https://user-images.githubusercontent.com/72260079/171775778-1526b8e8-7a54-4038-8be4-df82d3bc6adf.JPG)
 ![Slide3](https://user-images.githubusercontent.com/72260079/171775781-c76bf9e3-ca62-4269-abd5-6f180682336f.JPG)
 ![Slide4](https://user-images.githubusercontent.com/72260079/171775782-dbd8a5ae-5f9d-4ad7-b4f8-619989921bb9.JPG)
