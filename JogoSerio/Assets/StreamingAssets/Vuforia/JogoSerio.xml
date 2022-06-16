@@ -1,11 +1,11 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <QCARConfig xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="qcar_config.xsd">
   <Tracking>
-    <ImageTarget name="ancora_5_" size="500.000000 498.091614" />
-    <ImageTarget name="ancora_4_" size="500.000000 487.179474" />
-    <ImageTarget name="ancora_3_" size="500.000000 491.228058" />
-    <ImageTarget name="ancora_2_" size="500.000000 492.619934" />
-    <ImageTarget name="ancora_1_" size="500.000000 496.587036" />
-    <ImageTarget name="principal_" size="500.000000 603.076904" />
+    <ImageTarget name="principal_" size="500.000000 500.000000" />
+    <ImageTarget name="ancora_1_" size="500.000000 500.000000" />
+    <ImageTarget name="ancora_2_" size="500.000000 500.000000" />
+    <ImageTarget name="ancora_3_" size="500.000000 500.000000" />
+    <ImageTarget name="ancora_4_" size="500.000000 500.000000" />
+    <ImageTarget name="ancora_5_" size="500.000000 500.000000" />
   </Tracking>
 </QCARConfig>
